@@ -1,6 +1,6 @@
 # Simple Voting DApp
 
-##Steps to start DApp locally
+## Steps to start DApp locally
 * Run `npm ci`
 * Run `npm run compile-contract`. It will create two files (`.bin` and `.abi`)
 * Start ganache locally (you may do it with `npm run create-local-blockchain`);
